@@ -1,0 +1,4 @@
+login=http://163.177.128.179:63201/api/v1/erp/qrCode/login
+getNewsList=http://192.168.1.245:8087/api/pcnews/newsList
+getNewsInfo=http://192.168.1.245:8087/api/pcnews/newsInfo
+getNotiList=http://192.168.1.245:8087/api/pcnews/notiList
